@@ -11,7 +11,6 @@
         <ul>
           <li>➕ Add, edit, and delete tasks with ease</li>
           <li>✅ Mark tasks as complete or in progress</li>
-          <li>🗂️ Organize tasks by category or priority</li>
           <li>📱 Responsive and intuitive mobile interface</li>
           <li>💾 Persistent data storage</li>
           <li>🧹 Clean, maintainable codebase with TypeScript</li>
