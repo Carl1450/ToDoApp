@@ -15,3 +15,6 @@ ToDoApp is a modern, user-friendly mobile task management application built with
 - 🟦 **TypeScript**
 - 🟨 **JavaScript**
 
+<div align="center">
+  <img src="[YOUR_GIPHY_GIF_LINK_HERE](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZxaTV1d2I3NDlyNDdubjRvYno0Z3ZlbnViaTdxendibjE4d3Z1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPkqqC55k7kz9OfJKo/giphy.gif)" alt="Demo of ToDoApp" />
+</div>
